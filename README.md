@@ -2,7 +2,7 @@
 send sms in laravel for sms.ir
 
 # Install
-`composer devnull-ir/smsSender`
+`composer require devnull-ir/smssender`
 
 # Use 
 add To .env File:
