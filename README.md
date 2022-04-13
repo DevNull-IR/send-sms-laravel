@@ -11,3 +11,8 @@ UserApiKey_sms=YourUserApiKey
 SecretKey_sms=YourSecretKey
 LineNumber_sms=YourPhoneTheSite
 ```
+# Functions
+
+`sendCode()`
+`sendMessage()`
+`get_token_sms()`
