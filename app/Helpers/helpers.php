@@ -1,3 +1,4 @@
+<?php 
 if (! function_exists('get_token_sms')){
     function get_token_sms(){
         $curl = curl_init();
