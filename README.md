@@ -19,3 +19,14 @@ LineNumber_sms=YourPhoneTheSite
 
 `get_token_sms()`
 
+# how to send Message
+
+.env File :
+
+```env
+UserApiKey_sms=YourUserApiKey
+SecretKey_sms=YourSecretKey
+LineNumber_sms=3333333333
+```
+
+My Code:
