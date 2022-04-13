@@ -46,3 +46,8 @@ LineNumber_sms=3333333333
 ```
 
 My Code:
+
+```php
+sendCode(6545,09122222222,6523);
+```
+parametr there a code theme
