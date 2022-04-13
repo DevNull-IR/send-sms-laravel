@@ -1,0 +1,23 @@
+{
+    "name": "devnull-ir/smsSender",
+    "description": "Send sms in Laravel with sms.ir site",
+    "type": "library",
+	"keywords": ["laravel", "helper", "sms"],
+    "license": "MIT",
+	"require": {},
+    "authors": [
+        {
+            "name": "DevNull-IR",
+			"email": "alishahbazpor110@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		},
+		"files":[
+			"app/Helpers/helpers.php"
+		]
+	},
+    "minimum-stability": "dev"
+}
