@@ -30,3 +30,19 @@ LineNumber_sms=3333333333
 ```
 
 My Code:
+
+```php
+sendMessage('Hello',09122222222);
+```
+
+# how to Send Otp Code
+
+.env File :
+
+```env
+UserApiKey_sms=YourUserApiKey
+SecretKey_sms=YourSecretKey
+LineNumber_sms=3333333333
+```
+
+My Code:
