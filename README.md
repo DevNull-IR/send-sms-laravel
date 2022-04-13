@@ -14,5 +14,8 @@ LineNumber_sms=YourPhoneTheSite
 # Functions
 
 `sendCode()`
+
 `sendMessage()`
+
 `get_token_sms()`
+
