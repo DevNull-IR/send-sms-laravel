@@ -1,5 +1,5 @@
 {
-    "name": "devnull-ir/smsSender",
+    "name": "devnull-ir/smssender",
     "description": "Send sms in Laravel with sms.ir site",
     "type": "library",
 	"keywords": ["laravel", "helper", "sms"],
